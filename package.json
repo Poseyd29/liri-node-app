@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri node json package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poseyd29/liri-node-app.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poseyd29/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Poseyd29/liri-node-app#readme"
+}
