@@ -29,7 +29,7 @@ function getTweets() {
     var client = new Twitter(twitterKeys);
 
     var params = {
-        screen_name: '@BarackObama'
+        screen_name: '@jacketsmargila'
     };
     client.get('statuses/user_timeline', params, function (error, tweets, response) {
         if (!error) {
